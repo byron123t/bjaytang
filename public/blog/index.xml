@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Blog on </title>
+    <link>https://bjaytang.com/blog/</link>
+    <description>Recent content in My Blog on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bjaytang.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zion National Park</title>
+      <link>https://bjaytang.com/blog/post_1/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bjaytang.com/blog/post_1/</guid>
+      <description>A Hectic Week If there&amp;rsquo;s anything I&amp;rsquo;ve learned from this trip, it&amp;rsquo;s to check all conference deadlines before booking any plane tickets. Proofreading, writing, fixing plots &amp;ndash; these activities filled my first day. I missed out on fully appreciating riveting events such as a 4 hour plane ride, the 108 degree Vegas sun, a 2 hour drive through the desert, grocery shopping, and cooking dinner. While I wouldn&amp;rsquo;t mind missing out on this stuff again, it was the all nighter (6am submission) followed by the 4 hour morning hike which really did a number on me.</description>
+    </item>
+    
+  </channel>
+</rss>

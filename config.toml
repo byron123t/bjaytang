@@ -1,0 +1,316 @@
+baseURL = "https://bjaytang.com/"
+languageCode = "en-us"
+theme = "aafu"
+
+[params]
+    title = "Brian Jay Tang"
+    author = "Brian Jay Tang"
+    description = "Website title"
+
+
+    [params.theme]
+        # Available themes are 'light', 'dark', 'ocean', and 'pinkish'
+        mainTheme = "ocean"
+        # setting false below will hide 'aafu by darshan' displayed under the profile pic
+        showAttribute = false
+        singlePage = false
+
+    [params.favicons]
+        use = true
+        metas = '''
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+        <link rel="manifest" href="site.webmanifest">
+        <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
+        <link rel="shortcut icon" href="favicon.ico">
+        '''
+
+    # Profile section
+    [params.profile]
+        name = "Brian Jay Tang"
+        tagline = "1st Year PhD Student"
+        location = "Ann Arbor, MI"
+        photo = "profile.jpg"
+
+    # Section for links to social websites
+    [params.social]
+        title = "Links"
+
+        [[params.social.list]]
+            icon = "fab fa-linkedin-in"
+            url = "https://www.linkedin.com/in/btang12/"
+            title = "LinkedIn"		
+        [[params.social.list]]
+            icon = "fab fa-github"
+            url = "https://github.com/byron123t"
+            title = "GitHub"
+        [[params.social.list]]
+            icon = "fab fa-twitter"
+            url = "https://twitter.com/byron123t"
+            title = "Twitter"
+        [[params.social.list]]
+            icon = "ai ai-google-scholar"
+            url = "https://scholar.google.com/citations?user=pgkhBk8AAAAJ&hl=en"
+            title = "Google Scholar"
+
+    #Specify what is showin in the Accordion
+    [[params.showInAccordion]]
+        item = "aboutme"
+        expand = true   # true for the section that is initially expanded
+    [[params.showInAccordion]]
+        item = "experience"
+    [[params.showInAccordion]]
+        item = "education"
+    [[params.showInAccordion]]
+        item = "publication"
+    [[params.showInAccordion]]
+        item = "project"
+    [[params.showInAccordion]]
+        item = "skill"
+    [[params.showInAccordion]]
+        item = "hobby"
+
+    [params.aboutme]
+        title = "About Me"
+        icon = "fas fa-user"
+        description = "I'm a 1st year Computer Science PhD student at the University of Michigan and a member of the [Real-Time Computing Lab](https://rtcl.eecs.umich.edu/rtclweb/). My research focuses on the security, privacy, and ethics of machine learning systems.\n\nPlease contact me via byron123t [at] gmail [dot] com or bjaytang [at] umich [dot] edu. I'm always willing to meet up in person as well if you happen to be on campus or in the Chicago area."
+
+    # Experience section
+    [params.experience]
+        title = "Experiences"
+        icon = "fas fa-briefcase"
+
+        [[params.experience.list]]
+            position = "Research Assistant"
+            dates = "Fall 2021 - Present"
+            company = "University of Michigan"
+            details = ""
+        [[params.experience.list]]
+            position = "Research Assistant"
+            dates = "Fall 2018 - Summer 2021"
+            company = "University of Wisconsin - Madison"
+            details = "Involved in 4 research projects, I contributed with experiment design, writing, dataset creation, literature surveys, and more."
+        [[params.experience.list]]
+            position = "Software Engineering Intern"
+            dates = "Summer 2019 - Summer 2019"
+            company = "Roblox"
+            details = "Using test-driven development, I designed and implemented core features for Roblox Studio's script editor."
+        [[params.experience.list]]
+            position = "Software Engineering Intern"
+            dates = "Summer 2018 - Summer 2018"
+            company = "Optum"
+            details = "I designed and developed a web application which aggregates and visualizes over 50 million records from security scans and databases."
+
+    # Education section
+    [params.education]
+        title = "Education"
+        icon = "fas fa-graduation-cap"
+
+        [[params.education.list]]
+            degree = "Ph.D. in Computer Science"
+            college = "University of Michigan"
+            dates = "2021 - 2026"
+            thesis_title = "To be determined"
+            thesis_url = "#"
+        [[params.education.list]]
+            degree = "M.S. in Computer Science"
+            college = "University of Michigan"
+            dates = "2021 - 2023"
+            thesis_title = "To be determined"
+            thesis_url = "#"
+        [[params.education.list]]
+            degree = "B.S. in Computer Science"
+            college = "University of Wisconsin - Madison"
+            dates = "2017 - 2020"
+
+    # Publication section
+    [params.publication]
+        title = "Publications"
+        icon = "fas fa-book"
+        #The order below determines the order in which the items appear in "Publications" section
+        format = ["date", "authors", "title", "journal"]
+        #If you don't want to group publications, comment the line below by adding # at the beginning
+        types = ["Journal Articles", "Proceedings"]
+
+        [[params.publication.list]]
+            title = "Fairness Properties of Face Recognition and Obfuscation Systems"
+            authors = "H Rosenberg, B Tang, K Fawaz, S Jha"
+            date = "2021"
+            journal = "arXiv preprint arXiv:2108.02707"
+            url = "https://arxiv.org/abs/2108.02707"
+            type = "Journal Articles"
+
+        [[params.publication.list]]
+            title = "Face-off: Adversarial Face Obfuscation"
+            authors = "V Chandrasekaran, C Gao, B Tang, K Fawaz, S Jha, S Banerjee"
+            date = "2020"
+            journal = "Proceedings on Privacy Enhancing Technologies 2021 (2), 369-390"
+            url = "https://arxiv.org/abs/2003.08861"
+            type = "Proceedings"
+
+        [[params.publication.list]]
+            title = "Rearchitecting Classification Frameworks For Increased Robustness"
+            authors = "V Chandrasekaran, B Tang, N Papernot, K Fawaz, S Jha, X Wu"
+            date = "2019"
+            journal = "arXiv preprint arXiv:1905.10900"
+            url = "https://arxiv.org/abs/1905.10900"
+            type = "Journal Articles"
+
+    # Project section
+    [params.project]
+        title = "Projects"
+        icon = "fas fa-project-diagram"
+
+        [[params.project.list]]
+            title = "Creating a Privacy-Aware Conversational Robot"
+            url = "#"
+            description = "As social robots develop better conversational capabilities, users need to trust such robots with their conversations and data. Privacy issues arise when robots have a different notion of privacy than the user. For example, a robot may share details from a sensitive conversation with another user. We provide a framework for disclosure in multi-user conversational settings which is able to align with users' privacy preferences."
+        [[params.project.list]]
+            title = "Fairness Properties of Face Recognition and Obfuscation Systems"
+            url = "https://arxiv.org/abs/2108.02707"
+            description = "As more face obfuscation systems such as Face-Off have emerged (Low-Key, FAWKES, FoggySight, etc.), we need to understand whether these systems operate fairly for each demographic. Since face recognition systems are known to have demographic fairness issues particularly with regards to skin tone and sex, we explore fairness in face recognition and face obfuscation."
+        [[params.project.list]]
+            title = "Face-off: Adversarial Face Obfuscation"
+            url = "https://arxiv.org/abs/2003.08861"
+            description = "While face recognition has been useful to social media platforms and users, this technology poses significant threats to user privacy. Malicious entities or overly-curious service providers can surveil users to an uncomfortably accurate level. We propose Face-Off, a privacy-preserving framework that induced adversarial perturbations to a user's face with the goal of evading face recognition services."
+        [[params.project.list]]
+            title = "Rearchitecting Classification Frameworks For Increased Robustness"
+            url = "https://arxiv.org/abs/1905.10900"
+            description = "With autonomous vehicles becoming reliant on machine learning and computer vision, it is important to discuss how defenses against adversarial attacks can leverage real world features. We construct a classification paradigm that leverages invariances found in data to improve the robustness vs. accuracy trade-off."
+
+    # Skill section
+    [params.skill]
+        title = "Skills"
+        panelId = "skill-panel"
+        icon = "fas fa-cogs"
+
+        [[params.skill.list]]
+            skill = "English"
+            skillrating = 100
+        [[params.skill.list]]
+            skill = "Mandarin Chinese"
+            skillrating = 20
+        [[params.skill.list]]
+            skill = "Japanese"
+            skillrating = 15
+        [[params.skill.list]]
+            skill = "French"
+            skillrating = 10
+        [[params.skill.list]]
+            skill = "Python"
+            skillrating = 80
+        [[params.skill.list]]
+            skill = "JavaScript"
+            skillrating = 25
+        [[params.skill.list]]
+            skill = "SQL"
+            skillrating = 60
+        [[params.skill.list]]
+            skill = "HTML"
+            skillrating = 45
+        [[params.skill.list]]
+            skill = "TensorFlow"
+            skillrating = 55
+        [[params.skill.list]]
+            skill = "PyTorch"
+            skillrating = 40
+        [[params.skill.list]]
+            skill = "Keras"
+            skillrating = 50
+        [[params.skill.list]]
+            skill = "Flask"
+            skillrating = 30
+        [[params.skill.list]]
+            skill = "GitHub"
+            skillrating = 75
+        [[params.skill.list]]
+            skill = "Perforce"
+            skillrating = 60
+
+    # Hobby section
+    [params.hobby]
+        title = "Hobbies"
+        icon = "fas fa-gamepad"
+
+        [[params.hobby.list]]
+            hobby = "Cooking"
+        [[params.hobby.list]]
+            hobby = "Reading"
+        [[params.hobby.list]]
+            hobby = "Investing"
+        [[params.hobby.list]]
+            hobby = "Video games, tabletop games, board games"
+        [[params.hobby.list]]
+            hobby = "Anime, manga"
+        [[params.hobby.list]]
+            hobby = "Skateboarding, biking"
+        [[params.hobby.list]]
+            hobby = "Meditation, taijiquan"
+
+
+[deployment]
+# By default, files are uploaded in an arbitrary order.
+# Files that match the regular expressions in the "Order" list
+# will be uploaded first, in the listed order.
+order = [".jpg$", ".gif$"]
+
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "mydeployment"
+# The Go Cloud Development Kit URL to deploy to. Examples:
+# GCS; see https://gocloud.dev/howto/blob/#gcs
+# URL = "gs://<Bucket Name>"
+
+# S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+URL = "s3://bjaytang?region=us-east-2"
+
+# Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
+# URL = "azblob://$web"
+
+# You can use a "prefix=" query parameter to target a subfolder of the bucket:
+# URL = "gs://<Bucket Name>?prefix=a/subfolder/"
+
+# If you are using a CloudFront CDN, deploy will invalidate the cache as needed.
+# cloudFrontDistributionID = <ID>
+
+# Optionally, you can include or exclude specific files.
+# See https://godoc.org/github.com/gobwas/glob#Glob for the glob pattern syntax.
+# If non-empty, the pattern is matched against the local path.
+# All paths are matched against in their filepath.ToSlash form.
+# If exclude is non-empty, and a local or remote file's path matches it, that file is not synced.
+# If include is non-empty, and a local or remote file's path does not match it, that file is not synced.
+# As a result, local files that don't pass the include/exclude filters are not uploaded to remote,
+# and remote files that don't pass the include/exclude filters are not deleted.
+# include = "**.html" # would only include files with ".html" suffix
+# exclude = "**.{jpg, png}" # would exclude files with ".jpg" or ".png" suffix
+
+
+# [[deployment.matchers]] configure behavior for files that match the Pattern.
+# See https://golang.org/pkg/regexp/syntax/ for pattern syntax.
+# Pattern searching is stopped on first match.
+
+# Samples:
+
+[[deployment.matchers]]
+# Cache static assets for 1 year.
+pattern = "^.+\\.(js|css|svg|ttf)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(png|jpg)$"
+cacheControl = "max-age=31536000, no-transform, public"
+gzip = false
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
+
+[[deployment.matchers]]
+pattern = "^.+\\.(html|xml|json)$"
+gzip = true
