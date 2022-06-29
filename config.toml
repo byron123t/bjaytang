@@ -1,6 +1,7 @@
 baseurl = "https://www.bjaytang.com/"
 metaDataFormat = "yaml"
 title = "Brian Jay Tang"
+languageCode = "en-us"
 theme = "blist"
 enableEmoji = true
 
