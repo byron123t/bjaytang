@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fairness on Brian Jay Tang</title>
+    <link>https://www.bjaytang.com/en/tags/fairness/</link>
+    <description>Recent content in Fairness on Brian Jay Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/tags/fairness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fairness Properties of Face Recognition and Obfuscation Systems</title>
+      <link>https://www.bjaytang.com/en/projects/post_003/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_003/</guid>
+      <description>Authors Harrison Rosenberg , Brian Tang, Kassem Fawaz , Somesh Jha Conference Under review at 32nd USENIX Security Symposium (2023)
+Abstract The proliferation of automated face recognition in various commercial and government sectors has caused significant privacy concerns for individuals. A recent, popular approach to address these privacy concerns is to employ evasion attacks against the metric embedding networks powering face recognition systems. Face obfuscation systems generate imperceptible perturbations, when added to an image, cause the face recognition system to misidentify the user.</description>
+    </item>
+    
+  </channel>
+</rss>

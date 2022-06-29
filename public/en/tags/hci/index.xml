@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HCI on Brian Jay Tang</title>
+    <link>https://www.bjaytang.com/en/tags/hci/</link>
+    <description>Recent content in HCI on Brian Jay Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/tags/hci/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CONFIDANT: A Privacy Controller for Social Robots</title>
+      <link>https://www.bjaytang.com/en/projects/post_004/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_004/</guid>
+      <description>Authors Brian Tang, Dakota Sullivan , Bengisu Cagiltay , Varun Chandrasekaran , Kassem Fawaz , Bilge Mutlu Conference 17th ACM/IEEE International Conference on Human-Robot Interaction (2022)
+Abstract As social robots become increasingly prevalent in day-to-day environments, they will participate in conversations and appropriately manage the information shared with them. However, little is known about how robots might appropriately discern the sensitivity of information, which has major implications for human-robot trust. As a first step to address a part of this issue, we designed a privacy controller, CONFIDANT, for conversational social robots, capable of using contextual metadata (e.</description>
+    </item>
+    
+    <item>
+      <title>Real-Time Protection of Mobile Device Screen Information from Shoulder Surfing</title>
+      <link>https://www.bjaytang.com/en/projects/post_008/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_008/</guid>
+      <description>Authors Brian Tang, Kang G. Shin Conference Under review at 32nd USENIX Security Symposium (2023)
+Abstract People use mobile devices ubiquitously for computing, communication, storage, web browsing, and more. As a result, the information accessed and stored within mobile devices, such as financial and health information, text messages, and emails, can often be sensitive. Despite this, people frequently use their mobile devices in public areas, becoming susceptible to a simple yet effective attack – shoulder surfing.</description>
+    </item>
+    
+  </channel>
+</rss>

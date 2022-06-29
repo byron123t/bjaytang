@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Brian Jay Tang</title>
+    <link>https://www.bjaytang.com/en/page/</link>
+    <description>Recent content in Pages on Brian Jay Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://www.bjaytang.com/en/page/about/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/page/about/</guid>
+      <description>Biosketch I’m a 1st year Computer Science PhD student at the University of Michigan and a member of the Real-Time Computing Lab (advised by Prof. Kang Shin ). Currently, my research focuses on the intersection between usable privacy and machine learning. As an undergraduate student, I was a part of the Wisconsin Privacy and Security Group working with Prof. Kassem Fawaz , Prof. Varun Chandrasekaran , and Prof. Somesh Jha on machine learning security and privacy.</description>
+    </item>
+    
+    <item>
+      <title>Service</title>
+      <link>https://www.bjaytang.com/en/page/service/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/page/service/</guid>
+      <description>External/Sub Reviewer PoPETS | Spring 2021 USENIX Security | Spring 2020 Mentoring I hope to mentor some students to be great researchers soon!
+Volunteering Feed My Starving Children Westmont Public Library Burgess Square Healthcare &amp;amp; Rehab Centre Transcend UW Sakura-Con Other various small events and fundraisers </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://www.bjaytang.com/en/page/teaching/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/page/teaching/</guid>
+      <description>I&amp;rsquo;d like to teach and TA with the extra time I&amp;rsquo;ll have after finishing my PhD course requirements. Along with teaching at the University of Michigan, I&amp;rsquo;d like to volunteer and teach Computer Science at K-12 schools.</description>
+    </item>
+    
+  </channel>
+</rss>

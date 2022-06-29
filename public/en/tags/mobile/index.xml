@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Brian Jay Tang</title>
+    <link>https://www.bjaytang.com/en/tags/mobile/</link>
+    <description>Recent content in Mobile on Brian Jay Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-Time Protection of Mobile Device Screen Information from Shoulder Surfing</title>
+      <link>https://www.bjaytang.com/en/projects/post_008/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_008/</guid>
+      <description>Authors Brian Tang, Kang G. Shin Conference Under review at 32nd USENIX Security Symposium (2023)
+Abstract People use mobile devices ubiquitously for computing, communication, storage, web browsing, and more. As a result, the information accessed and stored within mobile devices, such as financial and health information, text messages, and emails, can often be sensitive. Despite this, people frequently use their mobile devices in public areas, becoming susceptible to a simple yet effective attack – shoulder surfing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Preprint on Brian Jay Tang</title>
+    <link>https://www.bjaytang.com/en/tags/preprint/</link>
+    <description>Recent content in Preprint on Brian Jay Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/tags/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rearchitecting Classification Frameworks For Increased Robustness</title>
+      <link>https://www.bjaytang.com/en/projects/post_001/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_001/</guid>
+      <description>Authors Varun Chandrasekaran , Brian Tang, Nicolas Papernot , Kassem Fawaz , Somesh Jha , Xi Wu Abstract While generalizing well over natural inputs, neural networks are vulnerable to adversarial inputs. Existing defenses against adversarial inputs have largely been detached from the real world. These defenses also come at a cost to accuracy. Fortunately, there are invariances of an object that are its salient features; when we break them it will necessarily change the perception of the object.</description>
+    </item>
+    
+    <item>
+      <title>Do Opt-Outs Really Opt Me Out</title>
+      <link>https://www.bjaytang.com/en/projects/post_007/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_007/</guid>
+      <description>Authors Duc Bui , Brian Tang, Kang G. Shin Conference Under review at 29th ACM Conference on Computer and Communications Security (2022)
+Abstract All major web browsers support extensions to provide additional functionalities and enhance users’ browsing experience while the extensions can access and collect users’ data during their web browsing. Although web extensions inform users of their data practices via multiple forms of notices, prior work has overlooked the gap between the actual data practices and the published privacy notices of browser extensions.</description>
+    </item>
+    
+    <item>
+      <title>Automatic Detection of Cookie Consent Violations</title>
+      <link>https://www.bjaytang.com/en/projects/post_005/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_005/</guid>
+      <description>Authors Duc Bui , Brian Tang, Kang G. Shin Conference Under review at 32nd USENIX Security Symposium (2023)
+Abstract Online services increasingly provide users with cookie consent settings to accept/reject the cookies placed on their web browsers. Unlike other GDPR-specific requirements, using cookies without user consent would violate consumer protection laws anywhere in the world. However, little has been done to understand the violations of users’ cookie consent/rejection from a global standpoint.</description>
+    </item>
+    
+    <item>
+      <title>Fairness Properties of Face Recognition and Obfuscation Systems</title>
+      <link>https://www.bjaytang.com/en/projects/post_003/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_003/</guid>
+      <description>Authors Harrison Rosenberg , Brian Tang, Kassem Fawaz , Somesh Jha Conference Under review at 32nd USENIX Security Symposium (2023)
+Abstract The proliferation of automated face recognition in various commercial and government sectors has caused significant privacy concerns for individuals. A recent, popular approach to address these privacy concerns is to employ evasion attacks against the metric embedding networks powering face recognition systems. Face obfuscation systems generate imperceptible perturbations, when added to an image, cause the face recognition system to misidentify the user.</description>
+    </item>
+    
+    <item>
+      <title>Real-Time Protection of Mobile Device Screen Information from Shoulder Surfing</title>
+      <link>https://www.bjaytang.com/en/projects/post_008/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/projects/post_008/</guid>
+      <description>Authors Brian Tang, Kang G. Shin Conference Under review at 32nd USENIX Security Symposium (2023)
+Abstract People use mobile devices ubiquitously for computing, communication, storage, web browsing, and more. As a result, the information accessed and stored within mobile devices, such as financial and health information, text messages, and emails, can often be sensitive. Despite this, people frequently use their mobile devices in public areas, becoming susceptible to a simple yet effective attack – shoulder surfing.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Brian Jay Tang</title>
+    <link>https://www.bjaytang.com/en/news/</link>
+    <description>Recent content in News on Brian Jay Tang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ExtPrivA Paper Accepted</title>
+      <link>https://www.bjaytang.com/en/news/post_009/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_009/</guid>
+      <description>Our paper, Detection of Inconsistencies in Privacy Practices of Browser Extensions , got accepted at IEEE S&amp;amp;P 2022!</description>
+    </item>
+    
+    <item>
+      <title>HRI Paper Accepted</title>
+      <link>https://www.bjaytang.com/en/news/post_008/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_008/</guid>
+      <description>Our paper, Confidant: A Privacy Controller for Social Robots , got accepted at HRI 2022!</description>
+    </item>
+    
+    <item>
+      <title>PhD 1st Year Fellowship</title>
+      <link>https://www.bjaytang.com/en/news/post_007/</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_007/</guid>
+      <description>I received the University of Michigan College of Engineering 1st Year PhD Fellowship!</description>
+    </item>
+    
+    <item>
+      <title>PhD Start</title>
+      <link>https://www.bjaytang.com/en/news/post_006/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_006/</guid>
+      <description>I joined the Real-Time Computing Lab at the University of Michigan as a PhD student!</description>
+    </item>
+    
+    <item>
+      <title>Graduated with B.S.</title>
+      <link>https://www.bjaytang.com/en/news/post_005/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_005/</guid>
+      <description>🎓 I graduated with a B.S. in Computer Sciences at UW - Madison!</description>
+    </item>
+    
+    <item>
+      <title>Face-Off Paper Accepted</title>
+      <link>https://www.bjaytang.com/en/news/post_004/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_004/</guid>
+      <description>Our paper, Face-Off: Adversarial Face Obfuscation , got accepted at PoPETS 2021!</description>
+    </item>
+    
+    <item>
+      <title>Interned at Roblox</title>
+      <link>https://www.bjaytang.com/en/news/post_003/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_003/</guid>
+      <description>I started my software engineering internship at Roblox Corporation!</description>
+    </item>
+    
+    <item>
+      <title>First paper written</title>
+      <link>https://www.bjaytang.com/en/news/post_002/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_002/</guid>
+      <description>I finished my first paper, Rearchitecting Classification Frameworks For Increased Robustness !</description>
+    </item>
+    
+    <item>
+      <title>Research Start</title>
+      <link>https://www.bjaytang.com/en/news/post_001/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/news/post_001/</guid>
+      <description>I joined the Wisconsin Privacy and Security Group at the University of Wisconsin - Madison as an undergraduate student!</description>
+    </item>
+    
+  </channel>
+</rss>
