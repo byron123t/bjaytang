@@ -9,7 +9,7 @@ type: reading
 
 ## What I'm Reading
 
-- **Sorry I'm Late, I Didn't Want to Come**
+- ***Sorry I'm Late, I Didn't Want to Come***
 - The Black Swan
 - Thinking, Fast and Slow
 - Why We Sleep: Unlocking the Power of Sleep and Dreams
@@ -23,15 +23,15 @@ type: reading
 
 ### Mindfulness
 
-- **The Headspace Guide to Meditation & Mindfulness**
+- ***The Headspace Guide to Meditation & Mindfulness***
 - The Upward Spiral Workbook
-- **The Book of Joy**
+- ***The Book of Joy***
 - The Four Agreements
-- **Mindset**
+- ***Mindset***
 
 ### Privacy
 
-- **Industry Unbound**
+- ***Industry Unbound***
 - Privacy as Contextual Integrity
 - Communication Privacy Management Theory
 
@@ -65,7 +65,7 @@ type: reading
 
 ### Manga/Comics
 
-- **Calvin and Hobbes**
+- ***Calvin and Hobbes***
 - FoxTrot
 - Dilbert
 - Wonder Cat Kyuu-chan

@@ -27,7 +27,7 @@ Here, I host a list of all the papers I've been involved with as well as some of
 - [Does IBP Scale?](/pdfs/Does_IBP_Scale_.pdf)
 - [Face-Off: Improving Imperceptibility of Adversarial Examples](/pdfs/CV_Project.pdf)
 - [3D Lightboard: A Space for Organizing and Sharing Ideas](/pdfs/VR_Project.pdf)
-- [The Hearthstone Meta For Learning ML and Statistics](/static/pdfs/277_Paper.pdf)
+- [The Hearthstone Meta For Learning ML and Statistics](/pdfs/277_Paper.pdf)
 
 ## Notes
 

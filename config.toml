@@ -44,9 +44,24 @@ DefaultContentLanguageInSubdir = true
         weight = 5
 
     [[languages.en.menu.main]]
+        name = "Papers"
+        url = "page/papers/"
+        weight = 6
+
+    [[languages.en.menu.main]]
+        name = "Readings"
+        url = "page/reading/"
+        weight = 7
+
+    [[languages.en.menu.main]]
+        name = "Other"
+        url = "page/funstuff/"
+        weight = 8
+
+    [[languages.en.menu.main]]
         name = "Tags"
         url = "tags"
-        weight = 6
+        weight = 9
 
   [languages.de]
     contentDir = "content/de" # Deutsch
