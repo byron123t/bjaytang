@@ -55,66 +55,40 @@ Please contact me via byron123t [at] gmail [dot] com, bjaytang [at] umich [dot] 
 - TensorFlow
 - PyTorch
 - Keras
+- Seaborn (This has saved countless hours of my life)
 - Flask
 - GitHub
 - Perforce
+- Overleaf/Latex
 
-## Hobbies
+## Current and Future Research Projects and Interests
 
-- Cooking
-- Reading
-- Investing
-- Video games, tabletop games, board games
-- Anime, manga
-- Skateboarding, biking
-- Meditation, taijiquan
+My research interests lie at the center of AI, S&P, and HCI. I'm particularly interested in improving user privacy using AI, investigating privacy and ethics issues using HCI techniques, and better understanding issues with ML robustness and fairness. Below are some of the projects I'm currently planning and working on. My dream is to design and develop an autonomous and fully-working AGI (not necessary human-level or animal-level intelligence). I'd prefer if you don't scoop these exact ideas but rather use them as inspiration for your own ideas/research. Either way, the design and execution is the hardest part.
 
-## Traveling
+### Privacy
 
-### Domestic
+- AGI for automating dynamic privacy analysis and consistency with privacy policies.
+- Large-scale privacy analysis of survey and crowdsourcing tools.
+- Extracting 3rd party data flows from privacy policies and automating data requests.
+- Quantifying and measuring (un)usability of privacy controls.
+- Measuring the true carbon cost of surveillance capitalism.
+- Conversational privacy in robots and voice assistants.
 
-- San Francisco, Los Angeles | California
-- Seattle | Washington
-- Chicago | Illinois
-- Madison | Wisconsin
-- Minneapolis | Minnesota
-- St. Louis | Missouri
-- Orlando | Florida
-- San Antonio | Texas
-- Portland | Maine
-- Boston, Cambridge | Massachusetts
-- Ann Arbor | Michigan
-- Las Vegas | Nevada
-- Springdale | Utah
-- Washington, D.C.
+### AGI
 
-### International
+- Designing and implementing some sort of AGI using the CMC, DNNs, model-based RL, and symbolic reasoning.
 
-- Tokyo, Osaka, Kyoto, Nagano | Japan
-- Cancun | Mexico
-- Toronto | Canada
-- Munich | Germany
-- Salzburg, Hallstatt | Austria
-- Paris, Tours | France
-- Prague, Cesky Krumlov | Czech Republic
-- Taipei | Taiwan
-- The Bahamas
-- Jamaica
+### Adversarial ML
 
-### Parks 'n Stuff
+- Data poisoning attacks on interest-based classifiers.
+- Adversarial behaviors for recommendation algorithms and RL.
 
-- Zion National Park
-- Redwood National Park
-- Sequoia National Park
-- Yosemite National Park
-- Golden Gate Park
-- Monterey Bay
-- Griffith Park
-- Great Smoky Mountains National Park
-- Hawaiʻi Volcanoes National Park
-- Haleakalā National Park
-- Mammoth Cave National Park
-- Gateway Arch National Park
-- Sleeping Bear Dunes National Lakeshore
-- Shawnee National Forest
-- Fort Williams Park
+### ML Fairness
+
+- Fairness properties of adversarial NLP.
+- Large language models and personalization/overfitting.
+
+### Tech Addiction
+
+- Automated detection and censorship of toxicity and misinformation to reduce doomscrolling.
+- Measuring effictiveness of warning labels for recommendations.
