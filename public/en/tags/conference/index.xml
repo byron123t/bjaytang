@@ -5,6 +5,7 @@
     <link>https://www.bjaytang.com/en/tags/conference/</link>
     <description>Recent content in Conference on Brian Jay Tang</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CONFIDANT: A Privacy Controller for Social Robots</title>
@@ -17,13 +18,14 @@ Abstract As social robots become increasingly prevalent in day-to-day environmen
     </item>
     
     <item>
-      <title>Detection of Inconsistencies in Privacy Practices of Browser Extensions</title>
+      <title>Inconsitency Detection in Browser Extension Privacy Practices</title>
       <link>https://www.bjaytang.com/en/projects/post_006/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bjaytang.com/en/projects/post_006/</guid>
       <description>Authors Duc Bui , Brian Tang, Kang G. Shin Conference Conditionally accepted at 43rd IEEE Symposium on Security and Privacy (2022)
-Abstract Online trackers, such as advertising and analytics service companies, have provided users with choices to opt out of their tracking and data collection to mitigate the users’ concerns of increasing privacy risks. While opt-out choices of online services for the cookies placed on their own websites have been examined before, the choices provided by trackers for their third-party tracking services on publisher websites have been largely overlooked.</description>
+Abstract Abstract will be shared after full paper acceptance.
+Figures Relevant Links </description>
     </item>
     
     <item>

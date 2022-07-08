@@ -5,35 +5,39 @@
     <link>https://www.bjaytang.com/en/tags/nlp/</link>
     <description>Recent content in NLP on Brian Jay Tang</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Do Opt-Outs Really Opt Me Out</title>
+      <title>Does Opting-Out Actually Opt Me Out</title>
       <link>https://www.bjaytang.com/en/projects/post_007/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bjaytang.com/en/projects/post_007/</guid>
       <description>Authors Duc Bui , Brian Tang, Kang G. Shin Conference Under review at 29th ACM Conference on Computer and Communications Security (2022)
-Abstract All major web browsers support extensions to provide additional functionalities and enhance users’ browsing experience while the extensions can access and collect users’ data during their web browsing. Although web extensions inform users of their data practices via multiple forms of notices, prior work has overlooked the gap between the actual data practices and the published privacy notices of browser extensions.</description>
+Abstract Abstract will be shared after full paper acceptance.
+Figures Relevant Links </description>
     </item>
     
     <item>
-      <title>Automatic Detection of Cookie Consent Violations</title>
+      <title>Automated Detection of Consent Violations</title>
       <link>https://www.bjaytang.com/en/projects/post_005/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bjaytang.com/en/projects/post_005/</guid>
       <description>Authors Duc Bui , Brian Tang, Kang G. Shin Conference Under review at 32nd USENIX Security Symposium (2023)
-Abstract Online services increasingly provide users with cookie consent settings to accept/reject the cookies placed on their web browsers. Unlike other GDPR-specific requirements, using cookies without user consent would violate consumer protection laws anywhere in the world. However, little has been done to understand the violations of users’ cookie consent/rejection from a global standpoint.</description>
+Abstract Abstract will be shared after full paper acceptance.
+Figures Relevant Links </description>
     </item>
     
     <item>
-      <title>Detection of Inconsistencies in Privacy Practices of Browser Extensions</title>
+      <title>Inconsitency Detection in Browser Extension Privacy Practices</title>
       <link>https://www.bjaytang.com/en/projects/post_006/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bjaytang.com/en/projects/post_006/</guid>
       <description>Authors Duc Bui , Brian Tang, Kang G. Shin Conference Conditionally accepted at 43rd IEEE Symposium on Security and Privacy (2022)
-Abstract Online trackers, such as advertising and analytics service companies, have provided users with choices to opt out of their tracking and data collection to mitigate the users’ concerns of increasing privacy risks. While opt-out choices of online services for the cookies placed on their own websites have been examined before, the choices provided by trackers for their third-party tracking services on publisher websites have been largely overlooked.</description>
+Abstract Abstract will be shared after full paper acceptance.
+Figures Relevant Links </description>
     </item>
     
   </channel>

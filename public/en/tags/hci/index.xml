@@ -5,6 +5,7 @@
     <link>https://www.bjaytang.com/en/tags/hci/</link>
     <description>Recent content in HCI on Brian Jay Tang</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/tags/hci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CONFIDANT: A Privacy Controller for Social Robots</title>
@@ -17,13 +18,14 @@ Abstract As social robots become increasingly prevalent in day-to-day environmen
     </item>
     
     <item>
-      <title>Real-Time Protection of Mobile Device Screen Information from Shoulder Surfing</title>
+      <title>EyeShield: Real-Time Shoulder Surfing Protection for Mobile Devices</title>
       <link>https://www.bjaytang.com/en/projects/post_008/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.bjaytang.com/en/projects/post_008/</guid>
       <description>Authors Brian Tang, Kang G. Shin Conference Under review at 32nd USENIX Security Symposium (2023)
-Abstract People use mobile devices ubiquitously for computing, communication, storage, web browsing, and more. As a result, the information accessed and stored within mobile devices, such as financial and health information, text messages, and emails, can often be sensitive. Despite this, people frequently use their mobile devices in public areas, becoming susceptible to a simple yet effective attack – shoulder surfing.</description>
+Abstract Abstract will be shared after full paper acceptance.
+Figures Relevant Links </description>
     </item>
     
   </channel>

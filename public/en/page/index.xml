@@ -5,6 +5,7 @@
     <link>https://www.bjaytang.com/en/page/</link>
     <description>Recent content in Pages on Brian Jay Tang</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.bjaytang.com/en/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
@@ -13,6 +14,34 @@
       
       <guid>https://www.bjaytang.com/en/page/about/</guid>
       <description>Biosketch I’m a 1st year Computer Science PhD student at the University of Michigan and a member of the Real-Time Computing Lab (advised by Prof. Kang Shin ). Currently, my research focuses on the intersection between usable privacy and machine learning. As an undergraduate student, I was a part of the Wisconsin Privacy and Security Group working with Prof. Kassem Fawaz , Prof. Varun Chandrasekaran , and Prof. Somesh Jha on machine learning security and privacy.</description>
+    </item>
+    
+    <item>
+      <title>Hobbies and Traveling</title>
+      <link>https://www.bjaytang.com/en/page/funstuff/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/page/funstuff/</guid>
+      <description>Hobbies Cooking Reading Investing Video games, tabletop games, board games Anime, manga Skateboarding, biking Meditation, taijiquan Traveling Domestic San Francisco, Los Angeles | California Seattle | Washington Chicago | Illinois Madison | Wisconsin Minneapolis | Minnesota St. Louis | Missouri Orlando | Florida San Antonio | Texas Portland | Maine Boston, Cambridge | Massachusetts Ann Arbor | Michigan Las Vegas | Nevada Springdale | Utah Washington, D.C. International Tokyo, Osaka, Kyoto, Nagano | Japan Cancun | Mexico Toronto | Canada Munich | Germany Salzburg, Hallstatt | Austria Paris, Tours | France Prague, Cesky Krumlov | Czech Republic Taipei | Taiwan The Bahamas Jamaica Parks &amp;rsquo;n Stuff Zion National Park Redwood National Park Sequoia National Park Yosemite National Park Golden Gate Park Monterey Bay Griffith Park Great Smoky Mountains National Park Hawaiʻi Volcanoes National Park Haleakalā National Park Mammoth Cave National Park Gateway Arch National Park Sleeping Bear Dunes National Lakeshore Shawnee National Forest Fort Williams Park </description>
+    </item>
+    
+    <item>
+      <title>Papers and PDFs</title>
+      <link>https://www.bjaytang.com/en/page/papers/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/page/papers/</guid>
+      <description>Overview Here, I host a list of all the papers I&amp;rsquo;ve been involved with as well as some of my course and research notes. Unfortunately, I can&amp;rsquo;t share papers undergoing revision/review. Some titles have been altered to ensure reviewers are unable to search for papers undergoing review. Finally I have some recommendations for papers that left a big impact on me and my research.
+Publications/Papers CONFIDANT: A Privacy Controller for Social Robots Fairness Properties of Face Recognition and Obfuscation Systems Face-Off: Adversarial Face Obfuscation Rearchitecting Classification Frameworks For Increased Robustness Course Papers An Analysis and Proposed Design for Artificial General Intelligence A Standardized Model for Transparent Data Privacy DJGRAD: Sparse Gradients Protocol for Distributed Assisted Learning in CAVs Toxicity Detection and Mitigation on Social Networking Platforms Does IBP Scale?</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>https://www.bjaytang.com/en/page/reading/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.bjaytang.com/en/page/reading/</guid>
+      <description>What I&amp;rsquo;m Reading Sorry I&amp;rsquo;m Late, I Didn&amp;rsquo;t Want to Come The Black Swan Thinking, Fast and Slow Why We Sleep: Unlocking the Power of Sleep and Dreams The Road to Character Irrational Exuberance What Is Mathematics?: An Elementary Approach to Ideas and Methods The Brain That Changes Itself Bone Recommendations Mindfulness The Headspace Guide to Meditation &amp;amp; Mindfulness The Upward Spiral Workbook The Book of Joy The Four Agreements Mindset Privacy Industry Unbound Privacy as Contextual Integrity Communication Privacy Management Theory Computer Science Understanding Machine Learning: From Theory to Algorithms Cracking the Coding Interview Entrepreneurship The 4-Hour Workweek Zero to One The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company Life Atomic Habits: Tiny Changes, Remarkable Results Salt, Fat, Acid, Heat Never Split the Difference: Negotiating as if Your Life Depended on It Persepolis: The Story of a Childhood Tuesdays with Morrie Born a Crime Brave New World For Fun The Hobbit Zima Blue The Martian What If?</description>
     </item>
     
     <item>

@@ -9,7 +9,7 @@ type: papers
 
 ## Overview
 
-Here, I host a list of all the papers I've been involved with as well as some of my course and research notes. Unfortunately, I can't share papers undergoing revision/review. Our lab has a policy of not hosting papers undergoing review on arXiv (to ensure double-blind review). Finally I have some recommendations for papers that left a big impact on me and my research.
+Here, I host a list of all the papers I've been involved with as well as some of my course and research notes. Unfortunately, I can't share papers undergoing revision/review. Some titles have been altered to ensure reviewers are unable to search for papers undergoing review. Finally I have some recommendations for papers that left a big impact on me and my research.
 
 ## Publications/Papers
 
