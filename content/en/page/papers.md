@@ -33,6 +33,15 @@ Here, I host a list of all the papers I've been involved with as well as some of
 
 - [AGI 1st Semester Journal](/pdfs/semster_one_journal.pdf)
 - [AGI 2nd Semester Journal](/pdfs/semster_two_journal.pdf)
+- [Principles of Real Time Computing](https://docs.google.com/document/d/1yjynFxkPIqOyL7zJXyNzuupK11pwzACDP8qSR9ACvxE/edit?usp=sharing)
+- [Human-Computer Interaction](https://docs.google.com/document/d/1TNLxiNcCtEioVQ_geH18bVI9WClmXcrJo61V3uk6fbc/edit?usp=sharing)
+- [Computer Security](https://docs.google.com/document/d/19lYjetauIG1t2GipzHFOO02pOv0sto4TISSqb_WQ0qI/edit?usp=sharing)
+- [Operating Systems](https://docs.google.com/document/d/1--w4nTMPZqEFOFrXcyD6fupezUanL9Spv2ov85Ec9fc/edit?usp=sharing)
+- [Databases](https://docs.google.com/document/d/1-oMZp2seCzMh45m5e1j5WZsNQUAIKrVGiZwSUaSdfos/edit?usp=sharing)
+- [Cryptography](https://drive.google.com/file/d/1ShDmjVPHcaA1gmMJklbZoXqxIVRA6aW6/view?usp=sharing)
+- [Artificial Intelligence](https://docs.google.com/document/d/1fi8ga7HDOSvWpI4XiJ7nm9PKKwZ4T6s2/edit?usp=sharing&ouid=108198164559738450994&rtpof=true&sd=true)
+- [Algorithms](https://drive.google.com/file/d/1bzAQBT9gIHEKduhnoJQ1mKFcXhSPUUys/view?usp=sharing)
+- [Algorithms](https://drive.google.com/file/d/19wVVXByzDrLwUU9AQYDIVnnR7bvCJZu-/view?usp=sharing)
 
 ## Paper Recommendations
 

@@ -9,7 +9,7 @@ type: reading
 
 ## What I'm Reading
 
-- ***Sorry I'm Late, I Didn't Want to Come***
+- Black Software
 - The Black Swan
 - Thinking, Fast and Slow
 - Why We Sleep: Unlocking the Power of Sleep and Dreams
@@ -48,6 +48,7 @@ type: reading
 
 ### Life
 
+- ***Sorry I'm Late, I Didn't Want to Come***
 - Atomic Habits: Tiny Changes, Remarkable Results
 - Salt, Fat, Acid, Heat
 - Never Split the Difference: Negotiating as if Your Life Depended on It
